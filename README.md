@@ -30,26 +30,14 @@ I am an innovative and dependable Computer Science student passionate about buil
 
 ## 🛠️ Projects
 
-- **[Project Name #1](#):** Short project description.
-- **[Project Name #2](#):** Short project description.
-- **[Project Name #3](#):** Short project description.
-
 *Check out my repositories for more!*
-
----
-
-## 🌱 Currently Learning
-
-- Advanced algorithms and data structures
-- Cloud computing and DevOps practices
-- Mobile app development with Flutter
 
 ---
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/qianru12)
+- [Email](mailto:tongqianru03@gmail.com)
 
 ---
 

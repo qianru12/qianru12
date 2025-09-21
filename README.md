@@ -36,7 +36,7 @@ I am an innovative and dependable Computer Science student passionate about buil
 
 ## 📫 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/qianru2003)
+- [LinkedIn](https://www.linkedin.com/in/qianru2003/)
 - [Email](mailto:tongqianru03@gmail.com)
 
 ---
